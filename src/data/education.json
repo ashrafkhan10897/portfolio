@@ -1,0 +1,20 @@
+{
+    "education": [
+        {
+            "name": "Deccan College of Engineering and Technology",
+            "href": "https://deccancollege.ac.in/",
+            "title": "Bachelor of Engineering in Information Technology",
+            "logo": "/deccan.png",
+            "start": "2016",
+            "end": "2020"
+        },
+        {
+            "name": "Crescent Junior College",
+            "href": "",
+            "title": "Intermediate, MPC",
+            "logo": "/crescent.jpg",
+            "start": "2014",
+            "end": "2016"
+        }
+    ]
+}

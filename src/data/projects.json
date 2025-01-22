@@ -1,0 +1,127 @@
+{
+    "projects": [
+        {
+            "name": "WanderLust",
+            "description": "Property listing project implemented using MVC framework, where users can sign up, list property and add reviews.",
+            "href": "https://wanderlust-gewf.onrender.com/listings",
+            "image": "/wanderlust.jpg",
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "MongoDB",
+                "Express",
+                "Node.js"
+            ],
+            "links": [
+                {
+                    "name": "Website",
+                    "href": "https://wanderlust-gewf.onrender.com/listings",
+                    "icon": "globe"
+                }
+            ]
+        },
+        {
+            "name": "Weather App",
+            "description": "A Weather App developed using React and Material-UI, allowing users to search for weather information by city name.",
+            "href": "https://www.weatherworks.netlify.app/",
+            "image": "/weather.png",
+            "tags": [
+                "React",
+                "React Hooks",
+                "MaterialUI",
+                "Vite",
+                "OpenWeatherMap",
+                "API"
+            ],
+            "links": [
+                {
+                    "name": "Website",
+                    "href": "https://www.weatherworks.netlify.app/",
+                    "icon": "globe"
+                },
+                {
+                    "name": "Source",
+                    "href": "https://github.com/ashrafkhan10897/weatherapp",
+                    "icon": "github"
+                }
+            ]
+        },
+        {
+            "name": "Music Player",
+            "description": "A modern and visually appealing web-based music player application that offers a seamless and immersive music listening experience.",
+            "href": "https://ashmusic.netlify.app/",
+            "image": "/musicplayer.png",
+            "tags": ["HTML", "CSS", "JavaScript"],
+            "links": [
+                {
+                    "name": "Website",
+                    "href": "https://ashmusic.netlify.app/",
+                    "icon": "globe"
+                },
+                {
+                    "name": "Source",
+                    "href": "https://github.com/ashrafkhan10897/Music-Player",
+                    "icon": "github"
+                }
+            ]
+        },
+        {
+            "name": "Simon Says Game",
+            "description": "This project brings the classic Simon Says game to life in a digital format. The game challenges players to follow a sequence of color flashes and replicate them in the correct order.",
+            "href": "https://ashsimonsays.netlify.app/",
+            "image": "/simon.png",
+            "tags": ["HTML", "CSS", "JavaScript"],
+            "links": [
+                {
+                    "name": "Website",
+                    "href": "https://ashsimonsays.netlify.app/",
+                    "icon": "globe"
+                },
+                {
+                    "name": "Source",
+                    "href": "https://github.com/ashrafkhan10897/Simon-Says-Game",
+                    "icon": "github"
+                }
+            ]
+        },
+        {
+            "name": "To-Do List",
+            "description": "A simple and interactive To-Do App. This project allows users to add tasks to their to-do list, dynamically creating list items with a 'delete' button for easy task removal. ",
+            "href": "https://ashtodoapp.netlify.app/",
+            "image": "/todo.png",
+            "tags": ["HTML", "CSS", "JavaScript"],
+            "links": [
+                {
+                    "name": "Website",
+                    "href": "https://ashtodoapp.netlify.app/",
+                    "icon": "globe"
+                },
+                {
+                    "name": "Source",
+                    "href": "https://github.com/ashrafkhan10897/To-do-App",
+                    "icon": "github"
+                }
+            ]
+        },
+        {
+            "name": "Apex ERP",
+            "description": "An ERP web system for sales and inventory management with a calendar view allows users to visualize order schedules, sales timelines, and key events, enhancing planning, tracking, and operational efficiency.",
+            "href": "https://apexerp.netlify.app",
+            "image": "/apex.png",
+            "tags": ["React", "React Hooks", "Vite", "MaterialUI"],
+            "links": [
+                {
+                    "name": "Website",
+                    "href": "https://apexerp.netlify.app",
+                    "icon": "globe"
+                },
+                {
+                    "name": "Source",
+                    "href": "https://github.com/ashrafkhan10897/apex-erp",
+                    "icon": "github"
+                }
+            ]
+        }
+    ]
+}

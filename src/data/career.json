@@ -1,0 +1,27 @@
+{
+    "career": [
+        {
+            "name": "Talent Cogent",
+            "href": "https://www.talentcogent.com",
+            "title": "Salesforce Developer",
+            "logo": "/cogent.png",
+            "start": "May 2024",
+            "description": [
+                "Extensively worked on Agile methodology and attended Daily status/stand up meetings.",
+                "Created custom objects, fields, relationships, formulas, validation rules and process builder as process automation"
+            ]
+        },
+        {
+            "name": "Bristlecone",
+            "href": "https://www.bristlecone.com/",
+            "title": "SAP Basis Consultant",
+            "logo": "/bristlecone.jpg",
+            "start": "Dec 2021",
+            "end": "July 2022",
+            "description": [
+                "Managing and scheduling background jobs ensuring the smooth running of SAP systems. This involves configuring and monitoring jobs to run at specific times through control - M.",
+                "Developed comprehensive Excel sheets for tracking and managing production system Transport Requests, providing accurate and organized documentation for the entire transport lifecycle."
+            ]
+        }
+    ]
+}
