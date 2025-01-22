@@ -22,7 +22,7 @@ export default function Home() {
                     priority
                 />
                 <div className="flex flex-col">
-                    <h1 className="title text-5xl font-semibold">
+                    <h1 className="title text-3xl md:text-5xl font-semibold">
                         Hi Ashraf here 👋
                     </h1>
                     <p className="mt-4 font-light">
