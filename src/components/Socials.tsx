@@ -1,5 +1,7 @@
 import Icon from "./Icon";
-const socials = [
+type SocialIcon = "linkedin" | "github" | "mail";
+
+const socials: { name: string; href: string; icon: SocialIcon }[] = [
     {
         name: "LinkedIn",
         href: "https://www.linkedin.com/in/ashrafkhan10897/",
